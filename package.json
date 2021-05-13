@@ -1,0 +1,22 @@
+{
+  "name": "lab-node-express-getting-started",
+  "version": "1.0.0",
+  "description": "node basic server setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GovindThakur9540/lab-node-express-getting-started.git"
+  },
+  "author": "Govind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GovindThakur9540/lab-node-express-getting-started/issues"
+  },
+  "homepage": "https://github.com/GovindThakur9540/lab-node-express-getting-started#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
